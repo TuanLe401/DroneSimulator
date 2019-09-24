@@ -1,0 +1,1 @@
+Install NUnit 3.12.0 and NUnit3TestAdapter 3.15.1 using npm-install in main directory.
